@@ -1,0 +1,7 @@
+C:\Users\te16en2\source\repos\Adressbok\bin\Debug\Adressbok.exe.config
+C:\Users\te16en2\source\repos\Adressbok\bin\Debug\Adressbok.exe
+C:\Users\te16en2\source\repos\Adressbok\bin\Debug\Adressbok.pdb
+C:\Users\te16en2\source\repos\Adressbok\obj\Debug\Adressbok.csprojAssemblyReference.cache
+C:\Users\te16en2\source\repos\Adressbok\obj\Debug\Adressbok.csproj.CoreCompileInputs.cache
+C:\Users\te16en2\source\repos\Adressbok\obj\Debug\Adressbok.exe
+C:\Users\te16en2\source\repos\Adressbok\obj\Debug\Adressbok.pdb
